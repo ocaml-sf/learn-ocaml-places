@@ -15,6 +15,7 @@ Please contribute to this list if your institution does not appear.
 - Université de Paris
 - Sorbonne University
 - Université Paris Sud
+- Université Toulouse III - Paul Sabatier
 
 ### Portugal
 - Université de Beira Interior
