@@ -1,6 +1,6 @@
 # Places where OCaml is taught using Learn-OCaml
 
-Please contribute to this list if your institution does not appear.
+Please [contribute to this list](https://github.com/ocaml-sf/learn-ocaml-places/edit/master/README.md) if your institution does not appear.
 
 ## Asia
 
