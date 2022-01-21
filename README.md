@@ -25,4 +25,7 @@ Please [contribute to this list](https://github.com/ocaml-sf/learn-ocaml-places/
 ### Canada
 - McGill University
 
+### USA
+- [University of Michigan](https://umich.edu/)
+
 ## South America
