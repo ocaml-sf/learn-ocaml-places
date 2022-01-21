@@ -1,4 +1,4 @@
-# Places where OCaml is taught
+# Places where OCaml is taught using Learn-OCaml
 
 Please contribute to this list if your institution does not appear.
 
