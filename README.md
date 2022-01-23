@@ -4,6 +4,9 @@ Please [contribute to this list](https://github.com/ocaml-sf/learn-ocaml-places/
 
 ## Asia
 
+### Singapore
+- [Ahrefs Pte Ltd](https://ahrefs.com/)
+
 ## Africa
 
 ## Europe
