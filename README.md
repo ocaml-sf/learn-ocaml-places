@@ -12,21 +12,21 @@ Please [contribute to this list](https://github.com/ocaml-sf/learn-ocaml-places/
 ## Europe
 
 ### England
-- Cambridge University
+- [Cambridge University](https://www.cam.ac.uk/)
 
 ### France
-- Université de Paris
-- Sorbonne University
-- Université Paris Sud
-- Université Toulouse III - Paul Sabatier
+- [Sorbonne University](https://www.sorbonne-universite.fr/en)
+- [Université de Paris](https://u-paris.fr/en/)
+- [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
+- [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr/)
 
 ### Portugal
-- Université de Beira Interior
+- [Université de Beira Interior](https://www.ubi.pt/en/)
 
 ## North America
 
 ### Canada
-- McGill University
+- [McGill University](https://www.mcgill.ca/)
 
 ### USA
 - [University of Michigan](https://umich.edu/)
