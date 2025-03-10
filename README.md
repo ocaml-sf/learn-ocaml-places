@@ -18,7 +18,7 @@ Please [contribute to this list](https://github.com/ocaml-sf/learn-ocaml-places/
 - [Sorbonne University](https://www.sorbonne-universite.fr/en)
 - [Université de Paris](https://u-paris.fr/en/)
 - [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
-- [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr/)
+- [Université de Toulouse](https://www.univ-tlse3.fr/)
 
 ### Portugal
 - [Université de Beira Interior](https://www.ubi.pt/en/)
